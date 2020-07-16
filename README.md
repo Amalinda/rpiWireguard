@@ -1,2 +1,2 @@
 # rpiWireguard
-set up wireguard in Rpi because Rpi kernel have not yet incorperated wireguard.
+set up wireguard in Rpi because Rpi kernel has not yet incorperated wireguard.
